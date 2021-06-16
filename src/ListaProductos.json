@@ -1,0 +1,34 @@
+{
+    "ListaProductos": [
+        {
+            "title": "Headphones Jbl 200",
+            "image": "https://prophonechile.cl/wp-content/uploads/2018/06/jbl21.png",
+            "description": "Audifonos Bluetooth de 6 hrs. de duracion" ,
+            "price": "$32.000.-",
+            "stock": "4"
+        },
+        {
+            "title": "Headphones Jbl 200",
+            "image": "https://prophonechile.cl/wp-content/uploads/2018/06/jbl21.png", 
+            "description": "Audifonos Bluetooth de 6 hrs. de duracion", 
+            "price": "$32.000.-",
+            "stock": "7"
+        },
+        {
+            "title":"Headphones Jbl 200", 
+            "image": "https://prophonechile.cl/wp-content/uploads/2018/06/jbl21.png", 
+            "description": "Audifonos Bluetooth de 6 hrs. de duracion", 
+            "price": "$32.000.-",
+            "stock": "15"
+        },
+        {
+            "title":"Headphones Jbl 200", 
+            "image": "https://prophonechile.cl/wp-content/uploads/2018/06/jbl21.png", 
+            "description": "Audifonos Bluetooth de 6 hrs. de duracion", 
+            "price": "$32.000.-",
+            "stock": "23"
+        }
+
+    ]
+
+}
